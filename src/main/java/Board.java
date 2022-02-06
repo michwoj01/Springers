@@ -16,8 +16,8 @@ public class Board {
         normalmoves.add(new Vector(1,0));
         for (int i = 1; i<=8; i++){
             for (int j = 1; j <=2; j++){
-                Vector temp1 = new Vector(i,8-j);
-                Vector temp2 = new Vector(i,j+1);
+                Vector temp1 = new Vector(i,j);
+                Vector temp2 = new Vector(i,9-j);
                 Springer s1 = new Springer(temp1,0,this);
                 Springer s2 = new Springer(temp2,1,this);
                 team1.add(s1);
