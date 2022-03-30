@@ -13,6 +13,6 @@ Interactive "Springers" game - two players start with 16 pawns (like in chess or
 
 Project made for Object Oriented Programming classes in the winter semester of the academic year 2021/22 at the Computer Science studies at AGH University of Science and Technology.
 
-## Technology stack:
+## Technologies
 - Gradle
 - Java
