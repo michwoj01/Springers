@@ -1,5 +1,6 @@
 # Springers
 Simple game for Objective Programming classes
-Technology:
+
+Technology stack:
 - Gradle
 - Java
