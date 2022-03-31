@@ -11,6 +11,8 @@ Interactive "Springers" game - two players start with 16 pawns (like in chess or
 - jump over your own pawn or your opponent's pawn from the square directly adjacent to the pawn to be jumped onto the square directly behind it
 - performing the entire series of jumps with one pawn in accordance with the previous rule - changing the direction of subsequent jumps is possible
 
+![](siema.gif)
+
 Project made for Object Oriented Programming classes in the winter semester of the academic year 2021/22 at the Computer Science studies at AGH University of Science and Technology.
 
 ## Technologies
