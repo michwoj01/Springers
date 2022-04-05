@@ -11,7 +11,7 @@ Interactive "Springers" game - two players start with 16 pawns (like in chess or
 - performing the entire series of jumps with one pawn in accordance with the previous rule - changing the direction of subsequent jumps is possible
 
 <p align="center">
-  <img src="siema.gif" alt="animated" />
+  <img src="git.gif" alt="animated" />
 </p>
 
 Project made for Object Oriented Programming classes in the winter semester of the academic year 2021/22 at the Computer Science studies at AGH University of Science and Technology.
