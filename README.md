@@ -3,7 +3,6 @@ Simple game for Object Oriented Programming classes
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Screenshots](#screenshots)
 
 ## General info
 Interactive "Springers" game - two players start with 16 pawns (like in chess or checkers) and try to move all their pawns to the opponent's starting fields. Moves allowed under the same rules as in checkers :
